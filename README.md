@@ -1,12 +1,18 @@
-#AgendaDev
+# Agenda Dev
 
-AgendaDev é uma lista com os melhores eventos, palestras, meetups, hackathons e uma pancada de econtros legais que estão rolando por aí.
+Agenda Dev é uma lista com os melhores eventos, palestras, meetups, hackathons e uma pancada de econtros legais que estão rolando por aí.
 
-Pode ser no Rio de Janeiro em Santa Catarina ou no Acre, se você tem uma indicação não se acanhe, colabore e compartilhe conosco.
+## Colabore
+1. Fork o repositório
+2. Crie a sua branch a partir da gh-pages: git checkout -b nome-branch
+3. Committe as suas alterações: git commit -m "Comentário com a sua alteração"
+4. Envie a sua branch: git push origin nome-branch
+5. Envie uma solicitação de alteração através de pull request :)
 
-Curte eventos? [Acompanhe](http://theandersonn.github.io/agenda-dev/).
+## Questões e dúvidas
+Caso tenha alguma dificuldade ou deseje saber algum aspecto sobre a agenda, abra uma [issue](https://github.com/theandersonn/agenda-dev/issues/new) e explique a sua dificuldade.
 
-Nossa listinha de eventos é curada por um grupo de amigos loucos por eventos, quer fazer parte da turma?
+## License
 
-No Github faça um fork, insira a sua dica e envie seu pull request.
+[MIT](https://github.com/theandersonn/agenda-dev/blob/master/LICENSE-MIT.md) © [Anderson Nascimento](https://github.com/theandersonn)
 
